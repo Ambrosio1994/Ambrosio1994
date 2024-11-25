@@ -14,8 +14,8 @@ apaixonado por criar soluções inovadoras e compartilhar conhecimento com a com
 ## 📂 Projetos Destacados
 Aqui estão alguns dos projetos que desenvolvi e compartilhei:
 
-1. **[Chatbot QuickStart](https://github.com/Ambrosio1994/ChatBot-QA)**: Chatbot Básico usando Langchain e Anthropic.
-2. **[Outro Projeto](link-do-repositório)**: Explicação rápida do segundo projeto.
+1. **[Chatbot QuickStart](https://github.com/Ambrosio1994/ChatBot-QA)**: Chatbot Básico usando LlamaIndex e Anthropic.
+2. **[Writer-Critic Workflow](https://github.com/Ambrosio1994/escritor-de-artigo-com-langchain/blob/main/README.md)**: Crie um fluxo de Escrita e Avaliação de Artigos com LLMs e Langchain.
 
 ---
 
