@@ -16,6 +16,7 @@ Aqui estão alguns dos projetos que desenvolvi e compartilhei:
 
 1. **[Chatbot QuickStart](https://github.com/Ambrosio1994/ChatBot-QA)**: Chatbot Básico usando LlamaIndex e Anthropic.
 2. **[Writer-Critic Workflow](https://github.com/Ambrosio1994/escritor-de-artigo-com-langchain/blob/main/README.md)**: Crie um fluxo de Escrita e Avaliação de Artigos com LLMs e Langchain.
+3. **[Converse com seus documentos](https://github.com/Ambrosio1994/converse-com-seus-documentos)**: Crie uma interface gráfica com Streamlit, carregue 1 ou mais documentos PDF, crie RAG para responder perguntas contidas nos documentos.
 
 ---
 
