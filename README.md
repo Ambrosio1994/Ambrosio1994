@@ -46,7 +46,7 @@ Confira alguns dos meus projetos:
 
 - 🌐 [Meu LinkedIn](https://www.linkedin.com/in/diego-ambrosio/)
 - 📧 Email: sgtambrosio2019@gmail.com
-- 🐦 [Meu Twitter](https://twitter.com/seuusuario)
+- 🐦 [Meu Twitter](https://x.com/codeinteligente) **Em contrução 🚀**
 
 ---
 
