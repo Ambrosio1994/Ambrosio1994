@@ -1,41 +1,53 @@
 # 👋 Olá! Eu sou Diego Ambrosio
 
-Bem-vindo ao meu perfil! Sou desenvolvedor focado em **Inteligência Artificial** e **Machine Learning**, 
-apaixonado por criar soluções inovadoras e compartilhar conhecimento com a comunidade.
+Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por **Inteligência Artificial** e **Machine Learning**, focado em criar soluções inovadoras e compartilhar conhecimento com a comunidade.
 
 ---
 
 ## 🚀 Sobre Mim
-- 👀 Desenvolvo projetos em **IA**, **Machine Learning** e **Data Science**.
-- 💞️ Meu objetivo é compartilhar soluções que possam ajudar outros desenvolvedores e entusiastas de IA.
+- 🔍 Especialista em **IA**, **Machine Learning** e **Data Science**.
+- 💡 Fascinado por explorar o potencial dos LLMs e frameworks avançados.
+- 🤝 Comprometido em compartilhar soluções práticas e insights com desenvolvedores e entusiastas da área.
 
 ---
 
 ## 📂 Projetos Destacados
-Aqui estão alguns dos projetos que desenvolvi e compartilhei:
 
-1. **[Chatbot QuickStart](https://github.com/Ambrosio1994/ChatBot-QA)**: Chatbot Básico usando LlamaIndex e Anthropic.
-2. **[Writer-Critic Workflow](https://github.com/Ambrosio1994/escritor-de-artigo-com-langchain/blob/main/README.md)**: Crie um fluxo de Escrita e Avaliação de Artigos com LLMs e Langchain.
-3. **[Converse com seus documentos](https://github.com/Ambrosio1994/converse-com-seus-documentos)**: Crie uma interface gráfica com Streamlit, carregue 1 ou mais documentos PDF, crie RAG para responder perguntas contidas nos documentos.
+Confira alguns dos meus projetos:
+
+1. **[Chatbot QuickStart](https://github.com/Ambrosio1994/ChatBot-QA)**  
+   🗨️ Um chatbot básico utilizando LlamaIndex e Anthropic.
+
+2. **[Writer-Critic Workflow](https://github.com/Ambrosio1994/escritor-de-artigo-com-langchain/blob/main/README.md)**  
+   ✍️ Fluxo de Escrita e Avaliação de Artigos com LLMs e LangChain.
+
+3. **[Converse com seus documentos](https://github.com/Ambrosio1994/converse-com-seus-documentos)**  
+   📄 Interface gráfica com Streamlit para responder perguntas sobre documentos PDF.
+
+4. **[Chatbot com URL](https://github.com/Ambrosio1994/Chatbot-com-URL)**  
+   🌐 Um chatbot que responde perguntas e fornece as URLs usadas como fonte.
 
 ---
 
 ## 🔧 Habilidades Técnicas
-- **Linguagens:** Python
-- **Frameworks de IA:** TensorFlow, PyTorch, scikit-learn, Langchain,  Pandas, NumPy e outras APIs de IA.
-- **Ferramentas:** Jupyter, VSCode, Docker
+
+- **Linguagens:**  
+  Python
+
+- **Frameworks e Bibliotecas:**  
+  TensorFlow, PyTorch, scikit-learn, LangChain, Pandas, NumPy, APIs de IA.
+
+- **Ferramentas:**  
+  Jupyter, VSCode, Docker
 
 ---
 
 ## 📫 Contato
-- 🌐 [Meu LinkedIn](-)
+
+- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/diego-ambrosio/)
 - 📧 Email: sgtambrosio2019@gmail.com
-- 🐦 [Twitter](-)
+- 🐦 [Meu Twitter](https://twitter.com/seuusuario)
+
+---
 
 Sinta-se à vontade para entrar em contato ou colaborar em projetos! 😊
-
-
-<!---
-Ambrosio1994/Ambrosio1994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
