@@ -34,8 +34,6 @@ Confira alguns dos meus projetos:
 
 
 
-
-
 ---
 
 ## 🔧 Habilidades Técnicas
