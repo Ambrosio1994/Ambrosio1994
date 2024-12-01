@@ -14,18 +14,27 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por **Inteligência Art
 ## 📂 Projetos Destacados
 
 Confira alguns dos meus projetos:
+# Chatbot
 
 1. **[Chatbot QuickStart](https://github.com/Ambrosio1994/ChatBot-QA)**  
    🗨️ Um chatbot básico utilizando LlamaIndex e Anthropic.
+   
+2. **[Chatbot com URL](https://github.com/Ambrosio1994/Chatbot-com-URL)**  
+   🌐 Um chatbot que responde perguntas e fornece as URLs usadas como fonte.
 
-2. **[Writer-Critic Workflow](https://github.com/Ambrosio1994/escritor-de-artigo-com-langchain/blob/main/README.md)**  
-   ✍️ Fluxo de Escrita e Avaliação de Artigos com LLMs e LangChain.
+# RAG
 
-3. **[Converse com seus documentos](https://github.com/Ambrosio1994/converse-com-seus-documentos)**  
+1. **[Converse com seus documentos](https://github.com/Ambrosio1994/converse-com-seus-documentos)**  
    📄 Interface gráfica com Streamlit para responder perguntas sobre documentos PDF.
 
-4. **[Chatbot com URL](https://github.com/Ambrosio1994/Chatbot-com-URL)**  
-   🌐 Um chatbot que responde perguntas e fornece as URLs usadas como fonte.
+# Agent
+
+1. **[Writer-Critic Workflow](https://github.com/Ambrosio1994/Agents/tree/main/escritor-de-artigo)**  
+   ✍️ Fluxo de Escrita e Avaliação de Artigos com LLMs e LangChain.
+
+
+
+
 
 ---
 
