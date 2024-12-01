@@ -33,22 +33,16 @@ Confira alguns dos meus projetos:
 3. **[Crie um RAG a partir de um trasncrição de um vídeo do YouTube](https://github.com/Ambrosio1994/RAG/tree/main/youtube_video)**
    📽️ Crie uma interface gráfica e use seu LLM para responder perguntas sobre o que foi falado em um video do YouTube.
 
-# Agent
+# 🕵️ Agents
 
-1. **[Crie um Agent para escrever seus artigos](https://github.com/Ambrosio1994/Agents/tree/main/escritor-de-artigo)**
-   🤖💻 Crie um Agent Escritor de textos e outro Agent para corrigir os textos do escritor, quando a escrita estiver boa o bastante receba tudo pronto.
-
-1. **[Writer-Critic Workflow](https://github.com/Ambrosio1994/Agents/tree/main/escritor-de-artigo)**  
-   ✍️ Fluxo de Escrita e Avaliação de Artigos com LLMs e LangChain.
-
-
-
+1. **[Writer-Critic Workflow](https://github.com/Ambrosio1994/Agents/tree/main/escritor-de-artigo)**
+   ✍️ Escrita e Avaliação de textos com LLMs e LangChain.
 ---
 
 ## 🔧 Habilidades Técnicas
 
 - **Linguagens:**  
-  Python
+  Python 🐍
 
 - **Frameworks e Bibliotecas:**  
   TensorFlow, PyTorch, scikit-learn, LangChain, Pandas, NumPy, APIs de IA.
@@ -62,7 +56,7 @@ Confira alguns dos meus projetos:
 
 - 🌐 [Meu LinkedIn](https://www.linkedin.com/in/diego-ambrosio/)
 - 📧 Email: sgtambrosio2019@gmail.com
-- 🐦 [Meu Twitter](https://x.com/codeinteligente) **Em contrução 🚀**
+- 🐦 [Meu Twitter](https://x.com/ambrosiodev) **Em contrução 🚀**
 
 ---
 
