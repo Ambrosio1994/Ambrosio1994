@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por **Inteligência Art
 ---
 
 ## 🚀 Sobre Mim
-- 🔍 Especialista em **IA**, **Machine Learning** e **Data Science**.
+- 🔍 Pesquisador de **IA**, **Machine Learning** e **Data Science**.
 - 💡 Fascinado por explorar o potencial de **LLMs** e frameworks avançados.
 - 🤝 Comprometido em compartilhar soluções práticas e insights com desenvolvedores e entusiastas da área.
 
