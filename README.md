@@ -14,7 +14,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por **Inteligência Art
 ## 📂 Projetos Destacados
 
 Confira alguns dos meus projetos:
-# Chatbot
+# 🤖 Chatbot
 
 1. **[Chatbot QuickStart](https://github.com/Ambrosio1994/Chatbots/tree/main/chatbasico)**  
    🗨️ Um chatbot básico utilizando LlamaIndex e Anthropic.
@@ -22,7 +22,7 @@ Confira alguns dos meus projetos:
 2. **[Chatbot com URL](https://github.com/Ambrosio1994/Chatbots/tree/main/chat_com_url)**  
    🌐 Um chatbot que responde perguntas e fornece as URLs usadas como fonte.
 
-# RAG
+# 🔎 RAG
 
 1. **[Crie um RAG usando documentos PDF](https://github.com/Ambrosio1994/RAG/tree/main/documentos_pdf)**  
    📚 Crie uma interface gráfica e use seu LLM para responder perguntas sobre documentos PDF.
@@ -31,9 +31,12 @@ Confira alguns dos meus projetos:
    🌐 Crie uma interface gráfica e use seu LLM para responder perguntas sobre conteúdos de páginas Web.
 
 3. **[Crie um RAG a partir de um trasncrição de um vídeo do YouTube](https://github.com/Ambrosio1994/RAG/tree/main/youtube_video)**
-   📽️  Crie uma interface gráfica e use seu LLM para responder perguntas sobre o que foi falado em um video do YouTube.
+   📽️ Crie uma interface gráfica e use seu LLM para responder perguntas sobre o que foi falado em um video do YouTube.
 
 # Agent
+
+1. **[Crie um Agent para escrever seus artigos](https://github.com/Ambrosio1994/Agents/tree/main/escritor-de-artigo)**
+   🤖💻 Crie um Agent Escritor de textos e outro Agent para corrigir os textos do escritor, quando a escrita estiver boa o bastante receba tudo pronto.
 
 1. **[Writer-Critic Workflow](https://github.com/Ambrosio1994/Agents/tree/main/escritor-de-artigo)**  
    ✍️ Fluxo de Escrita e Avaliação de Artigos com LLMs e LangChain.
