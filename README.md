@@ -19,7 +19,7 @@ Confira alguns dos meus projetos:
 1. **[Chatbot QuickStart](https://github.com/Ambrosio1994/Chatbots/tree/main/chatbasico)**  
    🗨️ Um chatbot básico utilizando LlamaIndex e Anthropic.
    
-2. **[Chatbot com URL](https://github.com/Ambrosio1994/Chatbot-com-URL)**  
+2. **[Chatbot com URL](https://github.com/Ambrosio1994/Chatbots/tree/main/chat_com_url)**  
    🌐 Um chatbot que responde perguntas e fornece as URLs usadas como fonte.
 
 # RAG
