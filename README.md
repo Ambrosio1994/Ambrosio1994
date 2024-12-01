@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por **Inteligência Art
 Confira alguns dos meus projetos:
 # Chatbot
 
-1. **[Chatbot QuickStart](https://github.com/Ambrosio1994/ChatBot-QA)**  
+1. **[Chatbot QuickStart](https://github.com/Ambrosio1994/Chatbots/tree/main/chatbasico)**  
    🗨️ Um chatbot básico utilizando LlamaIndex e Anthropic.
    
 2. **[Chatbot com URL](https://github.com/Ambrosio1994/Chatbot-com-URL)**  
