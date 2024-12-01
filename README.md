@@ -24,8 +24,14 @@ Confira alguns dos meus projetos:
 
 # RAG
 
-1. **[Converse com seus documentos](https://github.com/Ambrosio1994/converse-com-seus-documentos)**  
-   📄 Interface gráfica com Streamlit para responder perguntas sobre documentos PDF.
+1. **[Crie um RAG usando documentos PDF](https://github.com/Ambrosio1994/RAG/tree/main/documentos_pdf)**  
+   📚 Crie uma interface gráfica e use seu LLM para responder perguntas sobre documentos PDF.
+   
+2. **[Crie um RAG a partir de um página Web](https://github.com/Ambrosio1994/RAG/tree/main/tags_url)**
+   🌐 Crie uma interface gráfica e use seu LLM para responder perguntas sobre conteúdos de páginas Web.
+
+3. **[Crie um RAG a partir de um trasncrição de um vídeo do YouTube](https://github.com/Ambrosio1994/RAG/tree/main/youtube_video)**
+   📽️  Crie uma interface gráfica e use seu LLM para responder perguntas sobre o que foi falado em um video do YouTube.
 
 # Agent
 
