@@ -55,7 +55,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por **Inteligência Art
 
 ## 📫 Contato
 
-- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/diego-ambrosio/)
+- 🌐 [Meu LinkedIn](https://www.linkedin.com/in/diego-ambrosio-vieira-564319288/)
 - 📧 **Email:** sgtambrosio2019@gmail.com
 - 🐦 [Meu Twitter](https://x.com/ambrosiodev) *(Em construção 🚀)*
 
