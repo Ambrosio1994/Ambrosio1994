@@ -31,7 +31,6 @@ Entre os trabalhos que venho desenvolvendo estão:
 - sistemas de busca e recuperação de informações em documentos PDF;
 - chatbots e assistentes baseados em documentos e páginas web;
 - workflows com múltiplos agentes e modelos de linguagem;
-- aplicações para automação de processos administrativos;
 - modelos preditivos e pipelines de Machine Learning;
 - interfaces e APIs para disponibilização de soluções de IA;
 - ferramentas locais, leves e rápidas para pesquisa e apoio à tomada de decisão.
@@ -40,71 +39,28 @@ Entre os trabalhos que venho desenvolvendo estão:
 
 ## 📌 Projetos em destaque
 
-### 🏢 Sistema de Gestão de Processos do Almoxarifado
-
-Aplicação web criada para acompanhar processos administrativos, fornecedores, documentos, entregas, notificações, auditoria e informações financeiras.
-
-O projeto envolve desenvolvimento full stack, PostgreSQL, armazenamento de documentos, integração com Google Drive, envio de e-mails, geração de relatórios, segurança, testes e implantação em produção.
-
-🔗 [Acessar o repositório](https://github.com/Ambrosio1994/almoxarifado-cmsp)
-
 ### 🔎 Aplicações com RAG
 
 Projetos de recuperação e geração de respostas utilizando documentos PDF, páginas web e transcrições de vídeos como fontes de conhecimento.
 
-🔗 [Acessar os projetos](https://github.com/Ambrosio1994/RAG)
+🔗 https://github.com/Ambrosio1994/RAG
 
 ### 🤖 Chatbots com LLMs
 
 Experimentos e aplicações com modelos de linguagem, LlamaIndex, APIs de IA e respostas acompanhadas de suas fontes.
 
-🔗 [Acessar os projetos](https://github.com/Ambrosio1994/Chatbots)
+🔗 https://github.com/Ambrosio1994/Chatbots
 
 ### 🧩 Agentes de IA
 
 Workflows com agentes especializados para geração, análise e revisão de conteúdo utilizando LLMs e LangChain.
 
-🔗 [Acessar os projetos](https://github.com/Ambrosio1994/Agents)
+🔗 https://github.com/Ambrosio1994/Agents
 
----
 
 ## 🛠️ Tecnologias e ferramentas
 
-### Linguagens
-
-- Python
-- JavaScript
-- C++
-- SQL
-
-### Machine Learning e dados
-
-- PyTorch
-- TensorFlow
-- scikit-learn
-- Pandas
-- NumPy
-- XGBoost
-- Jupyter
-
-### LLMs e aplicações de IA
-
-- LangChain
-- LlamaIndex
-- APIs de modelos de linguagem
-- RAG
-- Agentes de IA
-- Embeddings e busca semântica
-
-### Desenvolvimento e infraestrutura
-
-- Node.js
-- PostgreSQL
-- Docker
-- Git e GitHub
-- Linux
-- APIs REST
-- Google Drive API
+Python, JavaScript, C++, SQL, PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, XGBoost, LangChain, LlamaIndex, Node.js, PostgreSQL, Docker, Git, GitHub, Linux e APIs REST.
 
 ---
 
@@ -118,10 +74,6 @@ Busco combinar fundamentos sólidos de Ciência da Computação com experiência
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/diego-ambrosio-vieira-564319288/)
-- [X / Twitter](https://x.com/ambrosiodev)
+- https://www.linkedin.com/in/diego-ambrosio-vieira-564319288/
+- https://x.com/ambrosiodev
 - **E-mail:** sgtambrosio2019@gmail.com
-
----
-
-Estou sempre aberto a trocar ideias, colaborar em projetos e aprender com outras pessoas da comunidade de tecnologia.
